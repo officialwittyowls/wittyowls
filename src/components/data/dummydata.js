@@ -220,7 +220,7 @@ export const contact = [
   },
   {
     icon: <EmailOutlined />,
-    text1: "officialwittyowls@gmail.com",
+    text1: "info@wittyowls.com",
   },
 ]
 export const social = [
@@ -231,12 +231,12 @@ export const social = [
   },
   {
     platform: "LinkedIn",
-    url: "https://www.linkedin.com/company/wittyowls-technologies",
+    url: "https://www.linkedin.com/company/witty-owls/",
     icon: <LinkedIn />, // Replace with your icon component
   },
   {
     platform: "Instagram",
-    url: "https://www.instagram.com/wittyowlstechnologies",
+    url: "https://www.instagram.com/wittyowlstech/",
     icon: <Instagram />, // Replace with your icon component
   },
   {
